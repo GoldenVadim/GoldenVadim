@@ -1,3 +1,2 @@
-## [------------ ЖОСКИ РЕКЛАМА ------------]
-## [- БЕСПЛАТНЫЙ DDoS MINECRAFT СЕРВЕРОВ! -]
-## [ ---> https://t.me/GoldenDDoSBot <---  ]
+# https://dsc.gg/goldenddos
+# https://t.me/GoldenDDoS
