@@ -8,8 +8,9 @@ My *github.io* link is used to open GitHub page.
 * I'm using **Visual Studio Code** for coding.
 * **GitHub** is my favorite development platform.
 ## How to contact me?
-My channel is available in **Telegram** and you can contact me here.
-Also I have social media named **TikTok**.
+My channel is available in **Telegram** and you can contact me here.  
+Also I have social media named **TikTok**.  
+**Before starting online chatting you must read and agree talking rules [here](#discussion-rules).**
 ## Discussion Rules
 Before talking with me you must read these rules below.
 1. **Don't start chat with "Hello" only.**  
