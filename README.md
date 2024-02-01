@@ -4,7 +4,7 @@ If you want to see news about me or contact me, you can check my **Telegram chan
 My *github.io* link is used to open GitHub page.
 ## Some information about me
 * I have and using **ARTLINE Gaming** PC, info. about it is [here](https://hard.rozetka.com.ua/artline_x64v12/p351145518/)
-* I'm using **Windows 11** OS.
+* I'm using [**Arch Linux**](https://archlinux.org/) OS with [**KDE Plasma**](https://kde.org/plasma-desktop/) DE.
 * I'm using **Visual Studio Code** for coding.
 * **GitHub** is my favorite development platform.
 ## How to contact me?
