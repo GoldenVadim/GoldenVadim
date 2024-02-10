@@ -2,11 +2,6 @@
 Welcome to my GitHub profile! Here i'm publishing open-source projects and any other stuff.  
 If you want to see news about me or contact me, you can check my **Telegram channel**.  
 My *github.io* link is used to open GitHub page.
-## Some information about me
-* I have and using **ARTLINE Gaming** PC, info. about it is [here](https://hard.rozetka.com.ua/artline_x64v12/p351145518/)
-* I'm using [**Arch Linux**](https://archlinux.org/) OS with [**KDE Plasma**](https://kde.org/plasma-desktop/) DE.
-* I'm using [**VSCodium**](https://vscodium.com/) for coding.
-* **GitHub** is my favorite development platform.
 ## How to contact me?
 My channel is available in **Telegram** and you can contact me here.  
 Also I have social media named **TikTok**.  
