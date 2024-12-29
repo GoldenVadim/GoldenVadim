@@ -10,7 +10,7 @@ Welcome to my GitHub profile page.
 
 ## Resume
 ### Favourite...
-* IDE: Visual Studio Code (i hate vim)
+* IDE: Visual Studio Code
 * OS: Arch Linux
 * DE: KDE Plasma
 * Design: GIMP
