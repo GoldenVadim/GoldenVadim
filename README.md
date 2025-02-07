@@ -7,12 +7,3 @@ Welcome to my GitHub profile page.
 
 ## My stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenVadim&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api?username=GoldenVadim&show_icons=true"/>
-
-## Resume
-### Favourite...
-* IDE: Visual Studio Code
-* OS: Arch Linux
-* DE: KDE Plasma
-* Design: GIMP
-* Browser: Google Chrome
-* PL: C++, Python
