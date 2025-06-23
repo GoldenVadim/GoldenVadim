@@ -1,9 +1,47 @@
-# **Hello! I'm GoldenVadim**
-Welcome to my GitHub profile page.
+```cpp
+#include <string>
+#include <vector>
 
-## Contact me
-<a href='tg://resolve?domain=GoldenVadimOfficial'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/50px-Telegram_logo.svg.png"/></a>
-<a href='tiktok.com/GoldenVadim'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ionicons_logo-tiktok.svg/50px-Ionicons_logo-tiktok.svg.png"/></a>
+class PersonalInfo {
+public:
+      std::string nickname;
+private:
+      std::string fullName;
+      int age;
+};
 
-## My stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenVadim&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api?username=GoldenVadim&show_icons=true"/>
+class ContactInfo{
+public:
+      std::string telegramUsername;
+      std::string tikTokUsername;
+private:
+      std::string phoneNumber;
+      std::string email;
+}
+
+class AdditionalInfo{
+public:
+      std::vector<std::string> favoriteDistros;
+      std::vector<std::string> favoritePL;
+      std::string favoriteIDE;
+}
+
+void GoldenVadim(){
+      PersonalInfo personalInfo;
+      personalInfo.nickname="GoldenVadim";
+
+      ContactInfo contactInfo;
+      contactInfo.telegramUsername="@GoldenVadimOfficial"
+      contactInfo.tikTokUsername="@goldenvadim"
+
+      AdditionalInfo additionalInfo;
+      additionalInfo.favoriteDistros = {"Gentoo", "Debian"};
+      additionalInfo.favoritePL = {"C++", "Python"};
+      additionalInfo.favoriteIDE = "Qt Creator";
+}
+
+int main()
+{
+      GoldenVadim();
+}
+```
