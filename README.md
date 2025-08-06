@@ -43,5 +43,6 @@ void GoldenVadim(){
 int main()
 {
       GoldenVadim();
+      return 0;
 }
 ```
