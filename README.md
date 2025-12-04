@@ -2,28 +2,30 @@
 #include <string>
 #include <vector>
 
+using std::string,std::vector
+
 class PersonalInfo {
 public:
-      std::string nickname;
+      string nickname;
 private:
-      std::string fullName;
-      int age;
+      string fullName;
+      unsigned age;
 };
 
 class ContactInfo{
 public:
-      std::string telegramUsername;
-      std::string tikTokUsername;
+      string telegramUsername;
+      string tikTokUsername;
 private:
-      std::string phoneNumber;
-      std::string email;
+      string phoneNumber;
+      string email;
 }
 
 class AdditionalInfo{
 public:
-      std::vector<std::string> favoriteDistros;
-      std::vector<std::string> favoritePL;
-      std::string favoriteIDE;
+      string favoriteDistro;
+      vector<string> favoritePL;
+      string favoriteIDE;
 }
 
 void GoldenVadim(){
@@ -35,9 +37,9 @@ void GoldenVadim(){
       contactInfo.tikTokUsername="@goldenvadim"
 
       AdditionalInfo additionalInfo;
-      additionalInfo.favoriteDistros = {"Gentoo", "Debian"};
+      additionalInfo.favoriteDistros = "Gentoo";
       additionalInfo.favoritePL = {"C++", "Python"};
-      additionalInfo.favoriteIDE = "Qt Creator";
+      additionalInfo.favoriteIDE = "";
 }
 
 int main()
