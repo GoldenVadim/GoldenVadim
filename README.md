@@ -1,3 +1,3 @@
-```about me
-IDK what I should write about myself, can be we friends?
+```sh
+echo "idk what i should write about myself, can we be friends?"
 ```
